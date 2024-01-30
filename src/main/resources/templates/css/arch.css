@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+.form-select {
+	width: 324px;
+}
+
+.container {
+	text-align: center;
+	align-content: center;
+}
+
+.mainform {
+	text-align: -webkit-center;
+}
